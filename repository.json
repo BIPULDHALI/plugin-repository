@@ -1,15 +1,5 @@
 {
-  "plugins": [
-        {
-           "id": "plugin-usersonline",
-           "name": "Users Online",
-           "description": "Custom Users Online plugin for PHPNuxBill",
-           "ispaid": false,
-           "author": "BIPULDHALI",
-           "url": "https://github.com/BIPULDHALI/plugin-usersonline",
-           "github": "https://github.com/BIPULDHALI/plugin-usersonline",
-           "last_update": "2026-09-07"
-        },
+	"plugins": [
 		{
 			"id": "QuickHotspot",
     		"name": "QuickHotspot | Paid Plugin",
