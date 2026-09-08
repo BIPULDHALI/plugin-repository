@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Voucher-Device",
+        "name": "Voucher",
+        "description": "Customer can buy Voucher, it can activate later or give it as a Gift. Only for PHPNuxBill Version 2024.8.8 and above",
+        "ispaid": false,
+        "author": "ibnux",
+        "url": "https://github.com/hotspotbilling/Voucher-Device",
+        "github": "https://github.com/hotspotbilling/Voucher-Device",
+        "last_update": "2024-8-8"
+    },
+    {
+        "id": "Chillispot-Device",
+        "name": "Chillispot",
+        "description": "Hotspot Voucher using Chilispot Openwrt and Radius Mysql",
+        "ispaid": false,
+        "author": "Arneta.ID",
+        "url": "https://github.com/hotspotbilling/Chillispot-Device",
+        "github": "https://github.com/hotspotbilling/Chillispot-Device",
+        "last_update": "2024-8-13"
+    },
+	{
+        "id": "Mikrotik-StaticIP",
+        "name": "Mikrotik-Static",
+        "description": "Can Add Static user under PPPoE Plan and use PPPoE IP",
+        "ispaid": false,
+        "author": "Gerandonk",
+        "url": "https://github.com/gerandonk/Mikrotik-StaticIP",
+        "github": "https://github.com/gerandonk/Mikrotik-StaticIP",
+        "last_update": "2024-10-25"
+    }
+]
