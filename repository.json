@@ -1,6 +1,16 @@
 {
 	"plugins": [
 		{
+            "id": "plugin-usersonline",
+            "name": "Online Users Viewer",
+            "description": "View and monitor active online users in real-time with session details.",
+            "ispaid": false,
+            "author": "Bipul Dhali",
+            "url": "https://github.com/bipuldhali/plugin-usersonline",
+            "github": "https://github.com/bipuldhali/plugin-usersonline",
+            "last_update": "2026-09-08"
+        },
+		{
 			"id": "QuickHotspot",
     		"name": "QuickHotspot | Paid Plugin",
 		    "description": "MikroTik-direct hotspot voucher plugin for PHPNuxBill. Generate & sell vouchers instantly — no registration required. Features batch generation, self-service purchasing (Tripay/Duitku), print/PNG export, reseller commission system, and custom login page.",
